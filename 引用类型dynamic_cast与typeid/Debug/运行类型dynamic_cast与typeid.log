@@ -1,0 +1,4 @@
+﻿  change.cpp
+d:\vs2017.数据\运行类型dynamic_cast与typeid\change.cpp(29): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\vs2017.数据\运行类型dynamic_cast与typeid\change.cpp(38): error C2440: “初始化”: 无法从“base *”转换为“baseX *”
+  d:\vs2017.数据\运行类型dynamic_cast与typeid\change.cpp(38): note: 从基类型到派生类型的强制转换需要 dynamic_cast 或 static_cast
